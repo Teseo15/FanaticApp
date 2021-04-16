@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">FanaticApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tema">Tema</string>
+    <string name="lista">Lista</string>
+    <string name="grilla">Grilla</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="aves_de_presa">Cuando el nefasto villano de Gotham, Roman Sionis, y su mano derecha, Zsasz, piden una recompensa por una joven
+llamada Cass, toda la ciudad comienza a buscarla. Es cuando los caminos de Harley, Huntress, Black Canary y
+Renee Montoya se cruzan.</string>
+
+
+    <string name="power">Una píldora que le otorga a sus usuarios superpoderes únicos e impredecibles durante cinco minutos llega a las
+calles de Nueva Orleans. Pero cuando la violencia aumenta como resultado, un traficante adolescente y un policía
+local deben aliarse con un ex soldado para acabar con el grupo responsable de su creación.</string>
+    <string name="triple">Un equipo de mercenarios intentará detener a un grupo de sicarios profesionales antes de que acaben con su objetivo:
+ la hija de un multimillonario, con la intención de terminar con un sindicato criminal.</string>
+    <string name="bad">Marcus y Mike deben confrontar cambios de carrera y crisis de edad media, cuando se unen a un equipo de élite
+recién creado del departamento de policía de Miami para capturar al implacable Armando Armas, líder de un cartel
+de drogas.</string>
+    <string name="blood">Ray Garrison, un soldado de élite que murió en combate, es resucitado gracias a una avanzada tecnología que también
+ le da la habilidad de fuerza sobrehumana y rápida recuperación. Basada en el comic.</string>
+
+    <string name="grey">A comienzos de la Segunda Guerra Mundial, un capitán novato lleva una flota de buques aliados que transportan miles
+de soldados por las traicioneras aguas del "Black Pit" hacia el frente de batalla.</string>
+    <string name="inside">Una negociadora de situación de rehenes de la policía hace equipo con un agente federal para rescatar docenas de
+turistas tomados como rehenes durante un cerco en la Reserva Federa de EUA.</string>
+
+    <string name="geminis">Un asesino retirado, Henry Brogan, es perseguido por un misterioso asesino que puede predecir todos sus movimientos.
+ Al descubrir que está siendo cazado por un clon más joven de él mismo, Henry necesita averiguar por qué es un blanco
+y quién es el creador.</string>
+    <string name="la_vieja">Un grupo secreto de mercenarios con la misteriosa inhabilidad de morir han luchado por siglos. Pero cuando sus
+extraordinarias habilidades del equipo son repentinamente expuestas durante una misión.</string>
+    <string name="termi">Una humana mejorada y Sarah Connor deben detener a un Terminator líquido avanzado que está buscando asesinar a una
+joven, cuyo destino es crítico para la raza humana.</string>
+    <string name="bala">Cuando su esposa e hija son asesinadas sin motivo, un hombre de luto se encuentra atrapado en una guerra entre
+un grupo de justicieros carismáticos y el crimen que está infestando su ciudad.</string>
+    <string name="frontera">Un equipo de ex soldados de las fuerzas especiales planea robar todo el dinero de la casa de un narcotraficante en
+la jungla del Amazonas, en la frontera de Perú, Brasil y Colombia. Pero los problemas surgen una vez iniciado el
+plan.</string>
+    <string name="accion">Películas de Acción</string>
+    <string name="nombre">Peliculas de Acción</string>
+    <string name="info">Escogí el tema de películas de acción porque hay variedad de películas y se hace más fácil realizar la actividad, además que son entretenidas y divertidas.</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="deseo">Desea eliminar este elemento</string>
+</resources>
